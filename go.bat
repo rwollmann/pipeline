@@ -1,1 +1,1 @@
-echo "go.sh"
+echo "ein echo Kommande"
